@@ -1,4 +1,4 @@
-# taxi-time-series
+# taxi-count-prediction
 
 ## Описание проекта
 
