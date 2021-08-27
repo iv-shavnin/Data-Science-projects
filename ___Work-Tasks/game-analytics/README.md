@@ -1,4 +1,4 @@
-# age-by-faces
+# game-analytics
 
 ## Описание проекта
 
